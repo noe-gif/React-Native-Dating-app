@@ -31,7 +31,7 @@ User interface and experience
 
 Follow these instructions to build and run the project
 
-### Setup Flutter
+### Setup React Native
 
 A detailed guide for react native cli platforms setup could be find [here](https://reactnative.dev/docs/environment-setup)
 

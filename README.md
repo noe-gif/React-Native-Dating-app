@@ -1,7 +1,7 @@
-<h1 align="center">Awesome Android Kotlin Apps</h1></br>
+<h1 align="center">Dating app UI/UX using React Native</h1></br>
 
 <p align="center">
-:eyeglasses: A curated list of awesome android kotlin apps by open-source contributors.
+📱 This project is a react-native mobile application interface
 </p>
 <br>
 

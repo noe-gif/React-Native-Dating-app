@@ -11,7 +11,9 @@
 
 User interface and experience
 
-![Tutorial](assets/lv_0_20230502125528.gif)
+<p align="center">
+<img width="320px" src="assets/lv_0_20230502125528.gif" alt="androiddevnotes logo"></img>
+</p>
 
 ## Stats
 

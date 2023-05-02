@@ -11,6 +11,8 @@
 
 User interface and experience
 
+<div style={'display: flex;align-items: center;justify-content: center'}> ![Tutorial](assets/lv_0_20230502125528.gif)
+ </div>
 
 ## Stats
 

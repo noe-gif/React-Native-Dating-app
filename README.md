@@ -1,3 +1,10 @@
+<h1 align="center">Awesome Android Kotlin Apps</h1></br>
+
+<p align="center">
+:eyeglasses: A curated list of awesome android kotlin apps by open-source contributors.
+</p>
+<br>
+
 ![Banner](https://cdn.discordapp.com/attachments/1091185439815245874/1102907793058574346/Sans_titre.png)
 
 # Inure App Manager

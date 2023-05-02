@@ -23,6 +23,64 @@ User interface and experience
 ![](https://img.shields.io/badge/Target%20SDK-33%20(Android%2013)-566573?logo=android&logoColor=white)
 [![Crowdin](https://badges.crowdin.net/inure/localized.svg)](https://crowdin.com/project/inure)
 
+## Getting Started
+
+Follow these instructions to build and run the project
+
+### Setup Flutter
+
+A detailed guide for multiple platforms setup could be find [here](https://flutter.dev/docs/get-started/install/)
+
+### Setup Project
+
+- Clone this repository using `git clone https://github.com/CircuitVerse/mobile-app.git`.
+- `cd` into `mobile_app`.
+- `flutter pub get` to get all the dependencies.
+- Generate files using Builder Runner (**required**) 
+```
+flutter pub run build_runner build --delete-conflicting-outputs
+```
+- Switch to mobile-app's git hooks (**optional but recommended**)
+```
+git config core.hooksPath .githooks/
+# Make sure npm is installed to run the next command
+npm install -g @commitlint/config-conventional @commitlint/cli
+```
+> Mobile App enforces [Conventional Commits specification](https://www.conventionalcommits.org/en/v1.0.0/), make sure to read and follow them.
+
+## Project Structure
+
+```bash
+mobile-app/lib/
+├── config/                         # configuration files like environment_config
+├── enums/                          # enum files
+|   └── view_state.dart             # defines view states i.e Idle, Busy, Error
+|   └── auth_state.dart             # defines auth states i.e logged in using Google/FB/Github/Email
+├── l10n/                           # localization files like intl_en.arb
+├── locale/                         # AppLocalization & AppLocalizationDelegate
+├── managers/
+|   └── dialog_manager.dart         # show dialogs using dialog navigation key
+├── models/                         # model classes
+|   └── dialog_models.dart          # dialog request and response models
+        ...
+├── services/                       # services
+|   ├── API/                        # API implementations
+|   └── dialog_service.dart         # handles dialog
+|   └── local_storage_service.dart  # handles local storage (shared prefs)
+├── ui/                             # UI layer
+|  ├── views/                       # views
+|  |  └── base_view.dart
+|  |  └── cv_landing_view.dart
+|  |  └── startup_view.dart
+|  └── components/                  # shared components
+├── utils/                          # utilities such as api_utils routes.dart and styles.dart
+├── viewmodels/                     # Viewmodels layer
+├── app_theme.dart                  # Shared App Colors/border decorations etc.
+├── constants.dart                  # App constants
+├── locator.dart                    # dependency injection using get_it
+├── main.dart                       # <3 of the app
+```
+
 ## Download
 
 [![](https://img.shields.io/badge/Play%20Store-ea4335?logo=googleplay)](https://play.google.com/store/apps/details?id=app.simple.inure)

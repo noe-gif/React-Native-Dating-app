@@ -7,14 +7,6 @@
 
 ![Banner](https://cdn.discordapp.com/attachments/1091185439815245874/1102924123207901255/Sans_titre.png)
 
-# MBTI matching dating app
-
-User interface and experience
-
-<p align="center">
-<img src="assets/lv_0_20230502125528.gif" alt="androiddevnotes logo"></img>
-</p>
-
 ## Stats
 
 ![](https://img.shields.io/tokei/lines/noe-gif/Dating-app-React-Native?color=orange&label=Total%20Lines&logo=kotlin&logoColor=white)
@@ -26,6 +18,14 @@ User interface and experience
 ![](https://img.shields.io/badge/Minimum%20SDK-23%20(Marshmallow)-839192?logo=android&logoColor=white)
 ![](https://img.shields.io/badge/Target%20SDK-33%20(Android%2013)-566573?logo=android&logoColor=white)
 [![Crowdin](https://badges.crowdin.net/inure/localized.svg)](https://crowdin.com/project/inure)
+
+# MBTI matching dating app
+
+User interface and experience
+
+<p align="center">
+<img src="assets/lv_0_20230502125528.gif" alt="androiddevnotes logo"></img>
+</p>
 
 ## Getting Started
 

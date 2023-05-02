@@ -13,16 +13,15 @@ An elegant Android app manager.
 
 ## Stats
 
-![](https://img.shields.io/tokei/lines/github/Hamza417/Inure?color=orange&label=Total%20Lines&logo=kotlin&logoColor=white)
-[![](https://img.shields.io/github/downloads/Hamza417/inure/total?color=orange&label=Total%20Downloads%20(GitHub)&logo=github&logoColor=white)](https://tooomm.github.io/github-release-stats/?username=Hamza417&repository=Inure)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHamza417%2FInure&count_bg=%239A3DC8&title_bg=%23555555&icon=tencentweibo.svg&icon_color=%23E7E7E7&title=Total+Visits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Release](https://img.shields.io/github/v/release/Hamza417/Inure?color=52be80&label=Release)](https://github.com/Hamza417/Inure/releases)
-![](https://img.shields.io/github/languages/count/Hamza417/Inure?color=white&label=Languages)
-![](https://img.shields.io/github/license/Hamza417/Inure?color=red&label=License)
+![](https://img.shields.io/tokei/lines/noe-gif/Dating-app-React-Native?color=orange&label=Total%20Lines&logo=kotlin&logoColor=white)
+[![](https://img.shields.io/github/downloads/noe-gif/Dating-app-React-Native/total?color=orange&label=Total%20Downloads%20(GitHub)&logo=github&logoColor=white)](https://tooomm.github.io/github-release-stats/?username=noe-gif&repository=Dating-app-React-Native)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnoe-gif%2FDating-app-React-Native&count_bg=%239A3DC8&title_bg=%23555555&icon=tencentweibo.svg&icon_color=%23E7E7E7&title=Total+Visits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Release](https://img.shields.io/github/v/release/noe-gif/Dating-app-React-Native?color=52be80&label=Release)](https://github.com/noe-gif/Dating-app-React-Native/releases)
+![](https://img.shields.io/github/languages/count/noe-gif/Dating-app-React-Native?color=white&label=Languages)
+![](https://img.shields.io/github/license/noe-gif/Dating-app-React-Native?color=red&label=License)
 ![](https://img.shields.io/badge/Minimum%20SDK-23%20(Marshmallow)-839192?logo=android&logoColor=white)
 ![](https://img.shields.io/badge/Target%20SDK-33%20(Android%2013)-566573?logo=android&logoColor=white)
 [![Crowdin](https://badges.crowdin.net/inure/localized.svg)](https://crowdin.com/project/inure)
-[![Telegram Group](https://img.shields.io/badge/Telegram%20Group-blue?logo=telegram)](https://t.me/inure_app_manager)
 
 ## Download
 

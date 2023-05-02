@@ -11,7 +11,6 @@
 
 User interface and experience
 
-![Tutorial](assets/lv_0_20230502125528.gif)
 
 ## Stats
 

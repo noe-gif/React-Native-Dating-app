@@ -74,17 +74,17 @@ Dating-app-React-Native/
 
 | Name                   | Description                                  | Version                    |
 | ---------------------- | -------------------------------------------- | -------------------------- |
-| [react-navigation]     | Navigation library                           | [clink-zoxide]             |
-| [moti]                 | Animation library                            | [zoxide.el]                |
-| [react-content-loader] | Placeholder component library                | Natively supported         |
-| [gesture-handler]      | Gesture recognition library                  | Natively supported         |
-| [linear-gradient]      | Linear gradient component                    | See the [wiki][lf-wiki]    |
-| [reanimated]           | Animation library                            | [nnn-autojump]             |
-| [redash]               | Utility library for animations               | [ranger-zoxide]            |
-| [safe-area-context]    | Safe area component                          | [telescope-zoxide]         |
-| [native-screens]       | Native screen components                     | Natively supported         |
-| [native-splash-screen] | Splash screen library                        | [zoxide.vim]               |
-| [native-svg]           | SVG rendering library                        | [zoxide.xplr]              |
+| [react-navigation]     | Navigation library                           | ^6.9.12                    |
+| [moti]                 | Animation library                            | ^0.24.2                    |
+| [react-content-loader] | Placeholder component library                | ^6.2.1                     |
+| [gesture-handler]      | Gesture recognition library                  | ^2.9.0                     |
+| [linear-gradient]      | Linear gradient component                    | ^3.0.2                     |
+| [reanimated]           | Animation library                            | ^18.1.0                    |
+| [redash]               | Utility library for animations               | ^4.5.1                     |
+| [safe-area-context]    | Safe area component                          | ^3.20.0                    |
+| [native-screens]       | Native screen components                     | ^3.3.0                     |
+| [native-splash-screen] | Splash screen library                        | ^13.9.0                    |
+| [native-svg]           | SVG rendering library                        | ^9.6.5                     |
 
 
 [react-navigation]: https://reactnavigation.org/docs/getting-started/

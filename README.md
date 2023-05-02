@@ -5,7 +5,7 @@
 </p>
 <br>
 
-![Banner](https://cdn.discordapp.com/attachments/1091185439815245874/1102923463477436497/Sans_titre.png)
+![Banner](https://cdn.discordapp.com/attachments/1091185439815245874/1102924123207901255/Sans_titre.png)
 
 # Inure App Manager
 

@@ -11,6 +11,8 @@
 
 User interface and experience
 
+![Tutorial][tutorial]
+
 ## Stats
 
 ![](https://img.shields.io/tokei/lines/noe-gif/Dating-app-React-Native?color=orange&label=Total%20Lines&logo=kotlin&logoColor=white)
@@ -26,6 +28,8 @@ User interface and experience
 ## Getting Started
 
 Follow these instructions to build and run the project
+
+![Banner](https://cdn.discordapp.com/attachments/1091185439815245874/1102924123207901255/Sans_titre.png)
 
 ### Setup Flutter
 
@@ -230,3 +234,6 @@ and appreciate the project.. 😄
 **Inure App Manager** is released as open source software under
 the [GPL v3](https://opensource.org/licenses/gpl-3.0.html)
 license, see the [LICENSE](./LICENSE) file in the project root for the full license text.
+
+
+[tutorial]: assets/lv_0_20230502125528.gif

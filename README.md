@@ -7,9 +7,9 @@
 
 ![Banner](https://cdn.discordapp.com/attachments/1091185439815245874/1102924123207901255/Sans_titre.png)
 
-# Inure App Manager
+# MBTI matching dating app
 
-An elegant Android app manager.
+User interface and experience
 
 ## Stats
 

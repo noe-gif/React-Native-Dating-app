@@ -88,9 +88,9 @@ Dating-app-React-Native/
 
 ## License
 
-**Positional** Copyright © 2023 - Hamza Rizwan
+**MBTFY** Copyright © 2023 - Noé Campo
 
-**Positional** is released as open source software under
+**MBTFY** could be released as open source software under
 the [GPL v3](https://opensource.org/licenses/gpl-3.0.html)
 license, see the [LICENSE](./LICENSE) file in the project root for the full license text.
 

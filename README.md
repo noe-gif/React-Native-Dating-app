@@ -12,7 +12,7 @@
 User interface and experience
 
 <p align="center">
-<img width="320px" src="assets/lv_0_20230502125528.gif" alt="androiddevnotes logo"></img>
+<img src="assets/lv_0_20230502125528.gif" alt="androiddevnotes logo"></img>
 </p>
 
 ## Stats

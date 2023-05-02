@@ -86,6 +86,13 @@ Dating-app-React-Native/
 | [native-splash-screen] | Splash screen library                        | ^13.9.0                    |
 | [native-svg]           | SVG rendering library                        | ^9.6.5                     |
 
+## License
+
+**Positional** Copyright © 2023 - Hamza Rizwan
+
+**Positional** is released as open source software under
+the [GPL v3](https://opensource.org/licenses/gpl-3.0.html)
+license, see the [LICENSE](./LICENSE) file in the project root for the full license text.
 
 [react-navigation]: https://reactnavigation.org/docs/getting-started/
 [moti]: https://moti.fyi/

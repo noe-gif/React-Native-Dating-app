@@ -88,7 +88,7 @@ Dating-app-React-Native/
 
 ## License
 
-**MBTFY** Copyright © 2023 - Noé Campo
+**MBTFY** Copyright ©2023 - Noé Campo
 
 **MBTFY** could be released as open source software under
 the [GPL v3](https://opensource.org/licenses/gpl-3.0.html)

@@ -5,7 +5,10 @@
 </p>
 <br>
 
-[banner]
+<p align="center">
+<img src="assets/Sans-titre.png" alt="banner"></img>
+</p>
+
 
 ## Stats
 

@@ -5,7 +5,7 @@
 </p>
 <br>
 
-![Banner](https://cdn.discordapp.com/attachments/1091185439815245874/1102924123207901255/Sans_titre.png)
+[banner]
 
 ## Stats
 
@@ -108,3 +108,4 @@ license, see the [LICENSE](./LICENSE) file in the project root for the full lice
 
 
 [tutorial]: assets/lv_0_20230502125528.gif
+[banner]: assets/Sans-titre.png

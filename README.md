@@ -24,7 +24,7 @@
 
 # MBTI matching dating app
 
-I made this project during my time in Korea.
+Demo :
 
 <p align="center">
 <img src="assets/lv_0_20230502125528.gif" alt="androiddevnotes logo"></img>

@@ -24,7 +24,7 @@
 
 # MBTI matching dating app
 
-Demo :
+Demo (loading, wait a few seconds) :
 
 <p align="center">
 <img src="assets/lv_0_20230502125528.gif" alt="androiddevnotes logo"></img>
